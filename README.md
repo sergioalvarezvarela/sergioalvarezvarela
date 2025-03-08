@@ -1,4 +1,6 @@
-# ⚔️ Welcome to the Dark Side ⚔️
+<p align="center">
+    <img src="frase.svg" alt="My SVG Image" width="1000">
+</p>
 
 ## About Me
 
