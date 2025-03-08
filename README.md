@@ -28,7 +28,7 @@ I am a programming and cybersecurity enthusiast. I currently work as an Offensiv
 ## 📈 My GitHub Stats
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&count_private=true" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&count_private=true" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioalvarezvarela&layout=compact&theme=dark" width="49%">
 </div>
 
