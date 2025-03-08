@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="frase.svg" alt="My SVG Image" width="1000">
+    <img src="frase1.svg" alt="My SVG Image" width="1000">
 </p>
 
 ## About Me
