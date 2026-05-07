@@ -3,7 +3,7 @@
 
 # Sergio Álvarez Varela
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Welcome+to+the+dark+side;Application+Security+Lead+%26+BISO;Product+Security+Engineer;AI+%26+LLM+Security;Secure+SDLC+%7C+DevSecOps+%7C+Cloud+Security" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Application+Security+Lead+%26+BISO;Product+Security+Engineer;AI+%26+LLM+Security;Secure+SDLC+%7C+DevSecOps+%7C+Cloud+Security" />
 
 </div>
 
