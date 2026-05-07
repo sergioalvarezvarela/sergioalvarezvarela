@@ -70,7 +70,7 @@ Currently starting a PhD focused on Artificial Intelligence and Cybersecurity, w
 
 <div align="center">
 
-### AI Security • LLM Security • Product Security • Secure AI Adoption • Enterprise Security
+### AI Security • Application Security • Product Security • Enterprise Security • Governance
 
 </div>
 
