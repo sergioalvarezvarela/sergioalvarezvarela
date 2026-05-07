@@ -1,11 +1,7 @@
 
 <div align="center">
 
-<img src="frase1.svg" width="1000"/>
-
 # Sergio Álvarez Varela
-
-### Application Security Lead • Product Security • AI Security
 
 <br>
 
