@@ -93,10 +93,8 @@ Currently starting a PhD focused on Artificial Intelligence and Cybersecurity, w
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/sergio-alvarez-varela)
-
-[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergioalvarezvarela)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/sergio-álvarez-varela-84b89b210?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 </div>
-```
+
 
