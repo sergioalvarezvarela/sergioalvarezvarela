@@ -1,7 +1,4 @@
-<p align="center">
-    <img src="frase1.svg" alt="My SVG Image" width="1000">
-</p>
-```md
+
 <div align="center">
 
 <img src="frase1.svg" width="1000"/>
